@@ -7,7 +7,7 @@
 
 https://standardjs.com
 
-## Usage
+## Usages
 
 This repository is used to generate a web site for [standard](https://github.com/standard/standard)
 
